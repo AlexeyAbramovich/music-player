@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Music Player with visualizer" />
+    <title>Music Player</title>
+    <link rel="icon" type="image/x-icon" href="./images/music.png" />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="./script.js" type="module" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="music-player">
+        <nav>
+          <h2 class="logo">ABRA SOUND</h2>
+          <div class="circle"><i class="fa-solid fa-bars"></i></div>
+        </nav>
+        <div class="cover-wrapper">
+          <img class="song-img" />
+          <div class="box">
+            <div class="visualizer"></div>
+          </div>
+        </div>
+
+        <h1 class="song-name"></h1>
+        <p class="song-artist"></p>
+        <audio id="song">
+          <source id="audio-source" type="audio/mp3" />
+        </audio>
+        <input id="progress" type="range" value="0" />
+        <div class="song-time">
+          <span class="song-time-current">00:00</span>
+          <span class="song-time-end">00:00</span>
+        </div>
+        <div class="controls">
+          <div><i class="prev fa-solid fa-backward"></i></div>
+          <div><i class="fa-solid fa-play" id="ctrlIcon"></i></div>
+          <div><i class="next fa-solid fa-forward"></i></div>
+        </div>
+        <div class="playlists none"></div>
+      </div>
+    </div>
+  </body>
+</html>
