@@ -9,6 +9,9 @@
 -  JavaScript
 
 # Preview
-![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/eabdde4a-e9d8-4495-8e90-c16624c2fdb0)
-![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/75bc1a6e-c4df-4b3a-87eb-a88b3133b7aa)
-![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/8668e61f-f26f-4974-b039-3ef988bd5913)
+![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/a15d595b-9c66-4678-9b17-2197a6aa22ec)
+![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/b97b9083-1514-4d94-8255-9f19dfaaccda)
+![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/ad0c43bd-60f6-47e4-982a-ff002e2a34fd)
+
+
+
