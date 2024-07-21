@@ -117,7 +117,7 @@ export const sportPlaylist = [
 		artist: 'Slick Killa Paimon',
 		path: `../media/sport/slick-killa-paimon-ur-final-message-slowed.mp3`,
 		cover: '../images/covers/sport/1.png',
-		visualizerColor: 'sport',
+		visualizerColor: 'white',
 	},
 	{
 		playlist: 'Sport',
@@ -125,7 +125,7 @@ export const sportPlaylist = [
 		artist: 'Eminem',
 		path: `../media/sport/eminem-lose-yourself.mp3`,
 		cover: '../images/covers/sport/2.png',
-		visualizerColor: 'sport',
+		visualizerColor: 'white',
 	},
 	{
 		playlist: 'Sport',
@@ -133,7 +133,7 @@ export const sportPlaylist = [
 		artist: 'Eminem',
 		path: `../media/sport/eminem-feat-nate-dogg-till-I-collapse.mp3`,
 		cover: '../images/covers/sport/3.png',
-		visualizerColor: 'sport',
+		visualizerColor: 'white',
 	},
 	{
 		playlist: 'Sport',
@@ -141,6 +141,6 @@ export const sportPlaylist = [
 		artist: 'Styles Of Beyond',
 		path: `../media/sport/styles-of-beyond-nine-thou.mp3`,
 		cover: '../images/covers/sport/4.png',
-		visualizerColor: 'sport',
+		visualizerColor: 'white',
 	},
 ]
