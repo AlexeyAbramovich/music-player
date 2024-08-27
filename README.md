@@ -7,6 +7,8 @@
 
 # Used technologies
 -  JavaScript
+-  HTML
+-  CSS
 
 # Preview
 ![image](https://github.com/AlexeyAbramovich/music-player/assets/74393859/a15d595b-9c66-4678-9b17-2197a6aa22ec)
